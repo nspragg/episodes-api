@@ -1,0 +1,68 @@
+{
+  "id": "p06b1zpj",
+  "live": false,
+  "type": "episode",
+  "title": "Radio 1 Meets",
+  "images": {
+    "type": "image",
+    "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p06b2rm4.jpg"
+  },
+  "labels": {
+    "category": "#{labels.category.entertainment}"
+  },
+  "signed": false,
+  "status": "available",
+  "tleo_id": "p06b1kzb",
+  "guidance": false,
+  "subtitle": "Sir David Attenborough, with Greg James",
+  "synopses": {
+    "small": "Sir David Attenborough co-hosts Radio 1 with Greg James.",
+    "medium": "Sir David Attenborough answers listener questions, adds anecdotes to animal themed records and pranks Greg James in his Radio 1 co-host."
+  },
+  "versions": [
+    {
+      "hd": true,
+      "id": "p06b205s",
+      "kind": "original",
+      "type": "version",
+      "download": true,
+      "duration": {
+        "text": "18 #{duration.mins}",
+        "value": "PT18M3S"
+      },
+      "availability": {
+        "end": "2019-06-18T15:00:00Z",
+        "start": "2018-06-18T15:00:00Z",
+        "remaining": {
+          "text": "#{availability.available-for} 11 #{availability.months}"
+        }
+      },
+      "first_broadcast": "18 #{month.jun} 2018"
+    }
+  ],
+  "parent_id": "p06b1kzb",
+  "suppliers": [],
+  "tleo_type": "brand",
+  "categories": [
+    "entertainment",
+    "science-and-nature"
+  ],
+  "has_credits": false,
+  "master_brand": {
+    "id": "bbc_radio_one",
+    "titles": {
+      "large": "BBC Radio 1",
+      "small": "BBC Radio 1",
+      "medium": "BBC Radio 1"
+    },
+    "attribution": "bbc_radio_one"
+  },
+  "release_date": "18 #{month.jun} 2018",
+  "related_links": [],
+  "original_title": "Sir David Attenborough, with Greg James",
+  "audio_described": false,
+  "requires_sign_in": true,
+  "release_date_time": "2018-06-18T00:00:00.000Z",
+  "lexical_sort_letter": "R",
+  "requires_tv_licence": true
+}
